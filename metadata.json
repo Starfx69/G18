@@ -1,0 +1,7 @@
+{
+  "name": "FaceAuth: Simple Face Recognition UI",
+  "description": "A simple web application for demonstrating the user flow of face registration and authentication using the device's camera. This is a UI/UX prototype and does not perform real biometric analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
